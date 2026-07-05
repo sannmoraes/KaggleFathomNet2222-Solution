@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+
 # 🧠 Handwritten Digit Recognition using Convolutional Neural Networks
 
 A Deep Learning project developed in Python to recognize handwritten digits (0–9) using a **Convolutional Neural Network (CNN)** built with TensorFlow/Keras.
